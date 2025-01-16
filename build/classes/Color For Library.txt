@@ -1,0 +1,5 @@
+Color For Library
+
+[14,40,94] Blue
+[96,123,179] Tabel Blue
+[153,153,255] Teks  
